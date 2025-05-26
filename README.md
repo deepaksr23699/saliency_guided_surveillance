@@ -18,12 +18,12 @@ The repository is organized into the following directories:
 
 - **`Application/`**: Contains scripts and notebooks for deploying the saliency-guided detection system in real-world scenarios.
 
-- **`Multi modal Fusion/`**: Implements techniques for combining information from multiple modalities (e.g., RGB and infrared images) to improve detection performance.
+- **`Multi modal Fusion/`**: Implements techniques for combining information from multiple modalities (e.g., RGB and infrared images) to improve saliency and detection performance.
 
 - **`Object Detection/`**: Includes models and code related to object detection algorithms used in the project.
 
 - **`Saliency Detection/`**: Contains models and scripts for generating saliency maps from input images.
 
-- **`Saliency Guided Detection/`**: Integrates saliency maps with object detection models to focus on regions of interest.
+- **`Saliency Guided Detection/`**: Integrates saliency maps with object detection models to focus on regions of interest to improve the detection results.
 
 - **`README.md`**: This file, providing an overview and guide to the repository.
