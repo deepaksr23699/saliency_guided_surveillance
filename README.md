@@ -1,4 +1,3 @@
-# saliency_guided_surveillance
 # Saliency-Guided Surveillance
 
 ## 📖 Overview
